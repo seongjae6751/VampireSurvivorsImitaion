@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour
+public class ButtonController : MonoBehaviour
 {
     public GameObject characterSelect;
     public GameObject StageSelect;
@@ -45,4 +46,8 @@ public class GameManager : MonoBehaviour
         options.SetActive(false);
     }
 
+    public void stage_selection_down()
+    {
+        SceneManager.LoadScene("PlayScenes");
+    }
 }
