@@ -132,7 +132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8297490}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: PowerUpWindow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   - component: {fileID: 10070871}
   - component: {fileID: 10070873}
   - component: {fileID: 10070872}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -258,7 +258,7 @@ GameObject:
   - component: {fileID: 22045587}
   - component: {fileID: 22045589}
   - component: {fileID: 22045588}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -332,7 +332,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 23594855}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MusicCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -370,7 +370,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 41202812}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CharacterWindow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -407,7 +407,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 45704606}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -449,7 +449,7 @@ GameObject:
   - component: {fileID: 60972047}
   - component: {fileID: 60972046}
   - component: {fileID: 60972045}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Options
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -583,7 +583,7 @@ GameObject:
   - component: {fileID: 72980298}
   - component: {fileID: 72980297}
   - component: {fileID: 72980296}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -705,7 +705,7 @@ GameObject:
   - component: {fileID: 74445894}
   - component: {fileID: 74445893}
   - component: {fileID: 74445892}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: PowerUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -838,7 +838,7 @@ GameObject:
   - component: {fileID: 84614167}
   - component: {fileID: 84614169}
   - component: {fileID: 84614168}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Option Selection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -865,7 +865,7 @@ RectTransform:
   - {fileID: 309948414}
   - {fileID: 1603721556}
   m_Father: {fileID: 1428193315}
-  m_RootOrder: 6
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -921,7 +921,7 @@ GameObject:
   - component: {fileID: 89514482}
   - component: {fileID: 89514484}
   - component: {fileID: 89514483}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -997,7 +997,7 @@ GameObject:
   - component: {fileID: 116652506}
   - component: {fileID: 116652508}
   - component: {fileID: 116652507}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1073,7 +1073,7 @@ GameObject:
   - component: {fileID: 117783638}
   - component: {fileID: 117783640}
   - component: {fileID: 117783639}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MoneyImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1149,7 +1149,7 @@ GameObject:
   - component: {fileID: 129025926}
   - component: {fileID: 129025928}
   - component: {fileID: 129025927}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ImeldaImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1226,7 +1226,7 @@ GameObject:
   - component: {fileID: 169757908}
   - component: {fileID: 169757907}
   - component: {fileID: 169757906}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: 'DurationButton '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1349,7 +1349,7 @@ GameObject:
   - component: {fileID: 181822708}
   - component: {fileID: 181822710}
   - component: {fileID: 181822709}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1482,7 +1482,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 185800887}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1522,7 +1522,7 @@ GameObject:
   - component: {fileID: 229326233}
   - component: {fileID: 229326235}
   - component: {fileID: 229326234}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1598,7 +1598,7 @@ GameObject:
   - component: {fileID: 232288169}
   - component: {fileID: 232288171}
   - component: {fileID: 232288170}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: PasqualinaItmes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1675,7 +1675,7 @@ GameObject:
   - component: {fileID: 234795087}
   - component: {fileID: 234795086}
   - component: {fileID: 234795085}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CoolDownButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1798,7 +1798,7 @@ GameObject:
   - component: {fileID: 279273769}
   - component: {fileID: 279273771}
   - component: {fileID: 279273770}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1875,7 +1875,7 @@ GameObject:
   - component: {fileID: 279685431}
   - component: {fileID: 279685430}
   - component: {fileID: 279685429}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: 'SpeedButton '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1998,7 +1998,7 @@ GameObject:
   - component: {fileID: 289275043}
   - component: {fileID: 289275045}
   - component: {fileID: 289275044}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2131,7 +2131,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 309948414}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: DamageCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2169,7 +2169,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 363426063}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2208,7 +2208,7 @@ GameObject:
   - component: {fileID: 388952022}
   - component: {fileID: 388952024}
   - component: {fileID: 388952023}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: GennaroItmes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2284,7 +2284,7 @@ GameObject:
   - component: {fileID: 407850615}
   - component: {fileID: 407850617}
   - component: {fileID: 407850616}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2419,7 +2419,7 @@ GameObject:
   - component: {fileID: 410609674}
   - component: {fileID: 410609676}
   - component: {fileID: 410609675}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2552,7 +2552,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 424690889}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2595,7 +2595,7 @@ GameObject:
   - component: {fileID: 434691234}
   - component: {fileID: 434691236}
   - component: {fileID: 434691235}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2672,7 +2672,7 @@ GameObject:
   - component: {fileID: 435354529}
   - component: {fileID: 435354531}
   - component: {fileID: 435354530}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2749,7 +2749,7 @@ GameObject:
   - component: {fileID: 443519469}
   - component: {fileID: 443519468}
   - component: {fileID: 443519467}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: 'AmountButton '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2872,7 +2872,7 @@ GameObject:
   - component: {fileID: 444187995}
   - component: {fileID: 444187997}
   - component: {fileID: 444187996}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CharacterName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3007,7 +3007,7 @@ GameObject:
   - component: {fileID: 445438706}
   - component: {fileID: 445438708}
   - component: {fileID: 445438707}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3142,7 +3142,7 @@ GameObject:
   - component: {fileID: 480549586}
   - component: {fileID: 480549588}
   - component: {fileID: 480549587}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3277,7 +3277,7 @@ GameObject:
   - component: {fileID: 515624323}
   - component: {fileID: 515624325}
   - component: {fileID: 515624324}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3354,7 +3354,7 @@ GameObject:
   - component: {fileID: 568995350}
   - component: {fileID: 568995352}
   - component: {fileID: 568995351}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3431,7 +3431,7 @@ GameObject:
   - component: {fileID: 576440938}
   - component: {fileID: 576440937}
   - component: {fileID: 576440936}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Button (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3553,7 +3553,7 @@ GameObject:
   - component: {fileID: 587539246}
   - component: {fileID: 587539248}
   - component: {fileID: 587539247}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3689,7 +3689,7 @@ GameObject:
   - component: {fileID: 631632515}
   - component: {fileID: 631632514}
   - component: {fileID: 631632513}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MightButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3812,7 +3812,7 @@ GameObject:
   - component: {fileID: 632050751}
   - component: {fileID: 632050753}
   - component: {fileID: 632050752}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3888,7 +3888,7 @@ GameObject:
   - component: {fileID: 668973622}
   - component: {fileID: 668973624}
   - component: {fileID: 668973623}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MoneyState
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3962,7 +3962,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 674802643}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: SoundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4002,7 +4002,7 @@ GameObject:
   - component: {fileID: 676033996}
   - component: {fileID: 676033998}
   - component: {fileID: 676033997}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4078,7 +4078,7 @@ GameObject:
   - component: {fileID: 679255591}
   - component: {fileID: 679255593}
   - component: {fileID: 679255592}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4152,7 +4152,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 690567843}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4192,7 +4192,7 @@ GameObject:
   - component: {fileID: 693619411}
   - component: {fileID: 693619413}
   - component: {fileID: 693619412}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Details
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4330,7 +4330,7 @@ GameObject:
   - component: {fileID: 700969192}
   - component: {fileID: 700969194}
   - component: {fileID: 700969193}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4407,7 +4407,7 @@ GameObject:
   - component: {fileID: 702369343}
   - component: {fileID: 702369342}
   - component: {fileID: 702369341}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ImeldaButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4530,7 +4530,7 @@ GameObject:
   - component: {fileID: 723537953}
   - component: {fileID: 723537955}
   - component: {fileID: 723537954}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4606,7 +4606,7 @@ GameObject:
   - component: {fileID: 755035347}
   - component: {fileID: 755035349}
   - component: {fileID: 755035348}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4742,7 +4742,7 @@ GameObject:
   - component: {fileID: 773224699}
   - component: {fileID: 773224698}
   - component: {fileID: 773224697}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4863,7 +4863,7 @@ GameObject:
   - component: {fileID: 774844700}
   - component: {fileID: 774844702}
   - component: {fileID: 774844701}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4939,7 +4939,7 @@ GameObject:
   - component: {fileID: 775080618}
   - component: {fileID: 775080620}
   - component: {fileID: 775080619}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5017,7 +5017,7 @@ GameObject:
   - component: {fileID: 777651421}
   - component: {fileID: 777651420}
   - component: {fileID: 777651419}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: StartButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5138,7 +5138,7 @@ GameObject:
   - component: {fileID: 791650283}
   - component: {fileID: 791650285}
   - component: {fileID: 791650284}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5273,7 +5273,7 @@ GameObject:
   - component: {fileID: 855402092}
   - component: {fileID: 855402094}
   - component: {fileID: 855402093}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5349,7 +5349,7 @@ GameObject:
   - component: {fileID: 862587688}
   - component: {fileID: 862587690}
   - component: {fileID: 862587689}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage Selection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5376,7 +5376,7 @@ RectTransform:
   - {fileID: 1174757393}
   - {fileID: 576440935}
   m_Father: {fileID: 1428193315}
-  m_RootOrder: 4
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5432,7 +5432,7 @@ GameObject:
   - component: {fileID: 866789090}
   - component: {fileID: 866789092}
   - component: {fileID: 866789091}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5568,7 +5568,7 @@ GameObject:
   - component: {fileID: 873683462}
   - component: {fileID: 873683461}
   - component: {fileID: 873683460}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: PasqualinaButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5691,7 +5691,7 @@ GameObject:
   - component: {fileID: 882297795}
   - component: {fileID: 882297797}
   - component: {fileID: 882297796}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5767,7 +5767,7 @@ GameObject:
   - component: {fileID: 886145682}
   - component: {fileID: 886145684}
   - component: {fileID: 886145683}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BgImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5785,18 +5785,14 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1696650835}
-  - {fileID: 1555321681}
-  - {fileID: 1501872933}
-  - {fileID: 1108451840}
-  m_Father: {fileID: 1249995145}
-  m_RootOrder: 0
+  m_Children: []
+  m_Father: {fileID: 1428193315}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000011444, y: -32}
-  m_SizeDelta: {x: 1343.1323, y: 972.6445}
+  m_AnchoredPosition: {x: 0.4807, y: -0.0027542}
+  m_SizeDelta: {x: 946.0386, y: 532.67}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &886145683
 MonoBehaviour:
@@ -5895,7 +5891,7 @@ GameObject:
   - component: {fileID: 898748043}
   - component: {fileID: 898748045}
   - component: {fileID: 898748044}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6055,7 +6051,7 @@ GameObject:
   - component: {fileID: 908988543}
   - component: {fileID: 908988545}
   - component: {fileID: 908988544}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6188,7 +6184,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 913313485}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6230,7 +6226,7 @@ GameObject:
   - component: {fileID: 919574297}
   - component: {fileID: 919574296}
   - component: {fileID: 919574295}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MagnetButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6353,7 +6349,7 @@ GameObject:
   - component: {fileID: 931555171}
   - component: {fileID: 931555173}
   - component: {fileID: 931555172}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6429,7 +6425,7 @@ GameObject:
   - component: {fileID: 949210073}
   - component: {fileID: 949210075}
   - component: {fileID: 949210074}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6503,7 +6499,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 960840703}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ButtonSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6526,7 +6522,7 @@ RectTransform:
   - {fileID: 74445891}
   - {fileID: 60972044}
   m_Father: {fileID: 1428193315}
-  m_RootOrder: 2
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
@@ -6544,7 +6540,7 @@ GameObject:
   - component: {fileID: 972944760}
   - component: {fileID: 972944762}
   - component: {fileID: 972944761}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6679,7 +6675,7 @@ GameObject:
   - component: {fileID: 976613912}
   - component: {fileID: 976613914}
   - component: {fileID: 976613913}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6755,7 +6751,7 @@ GameObject:
   - component: {fileID: 982206100}
   - component: {fileID: 982206102}
   - component: {fileID: 982206101}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Option Names
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6890,7 +6886,7 @@ GameObject:
   - component: {fileID: 986998408}
   - component: {fileID: 986998410}
   - component: {fileID: 986998409}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: SelectChar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7025,7 +7021,7 @@ GameObject:
   - component: {fileID: 988269758}
   - component: {fileID: 988269760}
   - component: {fileID: 988269759}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: AntonioImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7101,7 +7097,7 @@ GameObject:
   - component: {fileID: 988908109}
   - component: {fileID: 988908111}
   - component: {fileID: 988908110}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Img
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7177,7 +7173,7 @@ GameObject:
   - component: {fileID: 1005238443}
   - component: {fileID: 1005238445}
   - component: {fileID: 1005238444}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: AnotonioItmes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7253,7 +7249,7 @@ GameObject:
   - component: {fileID: 1015566152}
   - component: {fileID: 1015566154}
   - component: {fileID: 1015566153}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7388,7 +7384,7 @@ GameObject:
   - component: {fileID: 1017271420}
   - component: {fileID: 1017271422}
   - component: {fileID: 1017271421}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7523,7 +7519,7 @@ GameObject:
   - component: {fileID: 1022292230}
   - component: {fileID: 1022292232}
   - component: {fileID: 1022292231}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7658,7 +7654,7 @@ GameObject:
   - component: {fileID: 1039224264}
   - component: {fileID: 1039224266}
   - component: {fileID: 1039224265}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Details
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7795,7 +7791,7 @@ GameObject:
   - component: {fileID: 1045616453}
   - component: {fileID: 1045616455}
   - component: {fileID: 1045616454}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Character Selection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7820,7 +7816,7 @@ RectTransform:
   - {fileID: 882297795}
   - {fileID: 1128882346}
   m_Father: {fileID: 1428193315}
-  m_RootOrder: 3
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7876,7 +7872,7 @@ GameObject:
   - component: {fileID: 1057657812}
   - component: {fileID: 1057657814}
   - component: {fileID: 1057657813}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MoneyBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7898,7 +7894,7 @@ RectTransform:
   - {fileID: 668973622}
   - {fileID: 117783638}
   m_Father: {fileID: 1428193315}
-  m_RootOrder: 1
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7954,7 +7950,7 @@ GameObject:
   - component: {fileID: 1101759970}
   - component: {fileID: 1101759972}
   - component: {fileID: 1101759971}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8089,7 +8085,7 @@ GameObject:
   - component: {fileID: 1108451840}
   - component: {fileID: 1108451842}
   - component: {fileID: 1108451841}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: GameTitle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8108,12 +8104,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 886145682}
-  m_RootOrder: 3
+  m_Father: {fileID: 1428193315}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000015259, y: 124}
+  m_AnchoredPosition: {x: 0.000045776156, y: 93.00302}
   m_SizeDelta: {x: 307.2662, y: 126.8457}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1108451841
@@ -8165,7 +8161,7 @@ GameObject:
   - component: {fileID: 1109075661}
   - component: {fileID: 1109075663}
   - component: {fileID: 1109075662}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8242,7 +8238,7 @@ GameObject:
   - component: {fileID: 1110109233}
   - component: {fileID: 1110109235}
   - component: {fileID: 1110109234}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8318,7 +8314,7 @@ GameObject:
   - component: {fileID: 1127210499}
   - component: {fileID: 1127210501}
   - component: {fileID: 1127210500}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8454,7 +8450,7 @@ GameObject:
   - component: {fileID: 1128882349}
   - component: {fileID: 1128882348}
   - component: {fileID: 1128882347}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8587,7 +8583,7 @@ GameObject:
   - component: {fileID: 1132874164}
   - component: {fileID: 1132874166}
   - component: {fileID: 1132874165}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8722,7 +8718,7 @@ GameObject:
   - component: {fileID: 1150335349}
   - component: {fileID: 1150335351}
   - component: {fileID: 1150335350}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8800,7 +8796,7 @@ GameObject:
   - component: {fileID: 1174757396}
   - component: {fileID: 1174757395}
   - component: {fileID: 1174757394}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Button (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8922,7 +8918,7 @@ GameObject:
   - component: {fileID: 1183512534}
   - component: {fileID: 1183512536}
   - component: {fileID: 1183512535}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8998,7 +8994,7 @@ GameObject:
   - component: {fileID: 1192480577}
   - component: {fileID: 1192480579}
   - component: {fileID: 1192480578}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9073,7 +9069,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1206653721}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9114,7 +9110,7 @@ GameObject:
   - component: {fileID: 1209061294}
   - component: {fileID: 1209061296}
   - component: {fileID: 1209061295}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9190,7 +9186,7 @@ GameObject:
   - component: {fileID: 1235135127}
   - component: {fileID: 1235135129}
   - component: {fileID: 1235135128}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9265,7 +9261,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1249995145}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BgImgSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9283,8 +9279,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 886145682}
+  m_Children: []
   m_Father: {fileID: 1428193315}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9304,7 +9299,7 @@ GameObject:
   - component: {fileID: 1260632191}
   - component: {fileID: 1260632193}
   - component: {fileID: 1260632192}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9380,7 +9375,7 @@ GameObject:
   - component: {fileID: 1272213122}
   - component: {fileID: 1272213124}
   - component: {fileID: 1272213123}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9515,7 +9510,7 @@ GameObject:
   - component: {fileID: 1272765207}
   - component: {fileID: 1272765209}
   - component: {fileID: 1272765208}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9591,7 +9586,7 @@ GameObject:
   - component: {fileID: 1283756103}
   - component: {fileID: 1283756105}
   - component: {fileID: 1283756104}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: GennaroImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9667,7 +9662,7 @@ GameObject:
   - component: {fileID: 1285806261}
   - component: {fileID: 1285806263}
   - component: {fileID: 1285806262}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9743,7 +9738,7 @@ GameObject:
   - component: {fileID: 1297407096}
   - component: {fileID: 1297407098}
   - component: {fileID: 1297407097}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9819,7 +9814,7 @@ GameObject:
   - component: {fileID: 1298709856}
   - component: {fileID: 1298709858}
   - component: {fileID: 1298709857}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9955,7 +9950,7 @@ GameObject:
   - component: {fileID: 1320032747}
   - component: {fileID: 1320032746}
   - component: {fileID: 1320032745}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: VelocityButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10079,7 +10074,7 @@ GameObject:
   - component: {fileID: 1341187933}
   - component: {fileID: 1341187932}
   - component: {fileID: 1341187931}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10213,7 +10208,7 @@ GameObject:
   - component: {fileID: 1345640336}
   - component: {fileID: 1345640335}
   - component: {fileID: 1345640334}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MaxHealthButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10337,7 +10332,7 @@ GameObject:
   - component: {fileID: 1358663284}
   - component: {fileID: 1358663283}
   - component: {fileID: 1358663282}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10470,7 +10465,7 @@ GameObject:
   - component: {fileID: 1360208315}
   - component: {fileID: 1360208317}
   - component: {fileID: 1360208316}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Details
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10608,7 +10603,7 @@ GameObject:
   - component: {fileID: 1361677212}
   - component: {fileID: 1361677214}
   - component: {fileID: 1361677213}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10743,7 +10738,7 @@ GameObject:
   - component: {fileID: 1362412426}
   - component: {fileID: 1362412428}
   - component: {fileID: 1362412427}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: StageChar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10878,7 +10873,7 @@ GameObject:
   - component: {fileID: 1376113310}
   - component: {fileID: 1376113312}
   - component: {fileID: 1376113311}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: SelectPowerUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11013,7 +11008,7 @@ GameObject:
   - component: {fileID: 1386429002}
   - component: {fileID: 1386429004}
   - component: {fileID: 1386429003}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11089,7 +11084,7 @@ GameObject:
   - component: {fileID: 1387763575}
   - component: {fileID: 1387763577}
   - component: {fileID: 1387763576}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11165,7 +11160,7 @@ GameObject:
   - component: {fileID: 1392417892}
   - component: {fileID: 1392417894}
   - component: {fileID: 1392417893}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11241,7 +11236,7 @@ GameObject:
   - component: {fileID: 1405499131}
   - component: {fileID: 1405499133}
   - component: {fileID: 1405499132}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11317,7 +11312,7 @@ GameObject:
   - component: {fileID: 1406458612}
   - component: {fileID: 1406458614}
   - component: {fileID: 1406458613}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11391,7 +11386,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1410706248}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CharacterWindow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11433,7 +11428,7 @@ GameObject:
   - component: {fileID: 1412444676}
   - component: {fileID: 1412444678}
   - component: {fileID: 1412444677}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11509,7 +11504,7 @@ GameObject:
   - component: {fileID: 1418878099}
   - component: {fileID: 1418878101}
   - component: {fileID: 1418878100}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ImeldaItmes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11586,7 +11581,7 @@ GameObject:
   - component: {fileID: 1428193314}
   - component: {fileID: 1428193313}
   - component: {fileID: 1428193312}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11642,7 +11637,7 @@ Canvas:
   m_GameObject: {fileID: 1428193311}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
   m_PixelPerfect: 1
@@ -11667,6 +11662,11 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1249995145}
+  - {fileID: 886145682}
+  - {fileID: 1696650835}
+  - {fileID: 1555321681}
+  - {fileID: 1501872933}
+  - {fileID: 1108451840}
   - {fileID: 1057657812}
   - {fileID: 960840703}
   - {fileID: 1045616453}
@@ -11693,7 +11693,7 @@ GameObject:
   - component: {fileID: 1441004257}
   - component: {fileID: 1441004256}
   - component: {fileID: 1441004255}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11814,7 +11814,7 @@ GameObject:
   - component: {fileID: 1441327552}
   - component: {fileID: 1441327554}
   - component: {fileID: 1441327553}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11890,7 +11890,7 @@ GameObject:
   - component: {fileID: 1497094035}
   - component: {fileID: 1497094037}
   - component: {fileID: 1497094036}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Img
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11966,7 +11966,7 @@ GameObject:
   - component: {fileID: 1501872933}
   - component: {fileID: 1501872935}
   - component: {fileID: 1501872934}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BgCharacter2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11985,12 +11985,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 886145682}
-  m_RootOrder: 2
+  m_Father: {fileID: 1428193315}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000095367, y: -87}
+  m_AnchoredPosition: {x: 0.000070571856, y: -117.996994}
   m_SizeDelta: {x: 508.3728, y: 267.2587}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1501872934
@@ -12043,7 +12043,7 @@ GameObject:
   - component: {fileID: 1519552737}
   - component: {fileID: 1519552736}
   - component: {fileID: 1519552735}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: 'ArmorButton '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12166,7 +12166,7 @@ GameObject:
   - component: {fileID: 1527125243}
   - component: {fileID: 1527125245}
   - component: {fileID: 1527125244}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12243,7 +12243,7 @@ GameObject:
   - component: {fileID: 1549902511}
   - component: {fileID: 1549902510}
   - component: {fileID: 1549902509}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: GennaroButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12367,7 +12367,7 @@ GameObject:
   - component: {fileID: 1550290151}
   - component: {fileID: 1550290150}
   - component: {fileID: 1550290149}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12488,7 +12488,7 @@ GameObject:
   - component: {fileID: 1553876650}
   - component: {fileID: 1553876652}
   - component: {fileID: 1553876651}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12565,7 +12565,7 @@ GameObject:
   - component: {fileID: 1555321683}
   - component: {fileID: 1555321682}
   - component: {fileID: 1555321684}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BgCharacter3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12584,12 +12584,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 886145682}
-  m_RootOrder: 1
+  m_Father: {fileID: 1428193315}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 271.7732, y: 3.678}
+  m_AnchoredPosition: {x: 271.7732, y: -27.31901}
   m_SizeDelta: {x: 356.3666, y: 315.587}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1555321682
@@ -12693,7 +12693,7 @@ GameObject:
   - component: {fileID: 1590349139}
   - component: {fileID: 1590349141}
   - component: {fileID: 1590349140}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Img
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12770,7 +12770,7 @@ GameObject:
   - component: {fileID: 1603721559}
   - component: {fileID: 1603721558}
   - component: {fileID: 1603721557}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12903,7 +12903,7 @@ GameObject:
   - component: {fileID: 1611460309}
   - component: {fileID: 1611460311}
   - component: {fileID: 1611460310}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12979,7 +12979,7 @@ GameObject:
   - component: {fileID: 1612072933}
   - component: {fileID: 1612072935}
   - component: {fileID: 1612072934}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13055,7 +13055,7 @@ GameObject:
   - component: {fileID: 1617981559}
   - component: {fileID: 1617981561}
   - component: {fileID: 1617981560}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13131,7 +13131,7 @@ GameObject:
   - component: {fileID: 1626154843}
   - component: {fileID: 1626154845}
   - component: {fileID: 1626154844}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13266,7 +13266,7 @@ GameObject:
   - component: {fileID: 1658385631}
   - component: {fileID: 1658385633}
   - component: {fileID: 1658385632}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13401,7 +13401,7 @@ GameObject:
   - component: {fileID: 1671058517}
   - component: {fileID: 1671058519}
   - component: {fileID: 1671058518}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CharacterName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13536,7 +13536,7 @@ GameObject:
   - component: {fileID: 1682552555}
   - component: {fileID: 1682552557}
   - component: {fileID: 1682552556}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13612,7 +13612,7 @@ GameObject:
   - component: {fileID: 1689849767}
   - component: {fileID: 1689849769}
   - component: {fileID: 1689849768}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13747,7 +13747,7 @@ GameObject:
   - component: {fileID: 1693012902}
   - component: {fileID: 1693012904}
   - component: {fileID: 1693012903}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13882,7 +13882,7 @@ GameObject:
   - component: {fileID: 1696368803}
   - component: {fileID: 1696368805}
   - component: {fileID: 1696368804}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13958,7 +13958,7 @@ GameObject:
   - component: {fileID: 1696650835}
   - component: {fileID: 1696650837}
   - component: {fileID: 1696650836}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BgCharacter1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13977,13 +13977,13 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 886145682}
-  m_RootOrder: 0
+  m_Father: {fileID: 1428193315}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -265, y: -105}
-  m_SizeDelta: {x: 454.8672, y: 658.5365}
+  m_AnchoredPosition: {x: -259.0166, y: -36.928}
+  m_SizeDelta: {x: 427.0368, y: 458.82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1696650836
 MonoBehaviour:
@@ -14034,7 +14034,7 @@ GameObject:
   - component: {fileID: 1698093302}
   - component: {fileID: 1698093304}
   - component: {fileID: 1698093303}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: PasqualinaImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14111,7 +14111,7 @@ GameObject:
   - component: {fileID: 1705749911}
   - component: {fileID: 1705749910}
   - component: {fileID: 1705749909}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14232,7 +14232,7 @@ GameObject:
   - component: {fileID: 1708247456}
   - component: {fileID: 1708247458}
   - component: {fileID: 1708247457}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14309,7 +14309,7 @@ GameObject:
   - component: {fileID: 1709981594}
   - component: {fileID: 1709981593}
   - component: {fileID: 1709981592}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BuyButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14440,7 +14440,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1742829261}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14483,7 +14483,7 @@ GameObject:
   - component: {fileID: 1753239903}
   - component: {fileID: 1753239905}
   - component: {fileID: 1753239904}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14686,7 +14686,7 @@ GameObject:
   - component: {fileID: 1763404978}
   - component: {fileID: 1763404980}
   - component: {fileID: 1763404979}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14762,7 +14762,7 @@ GameObject:
   - component: {fileID: 1766495696}
   - component: {fileID: 1766495698}
   - component: {fileID: 1766495697}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14838,7 +14838,7 @@ GameObject:
   - component: {fileID: 1772802743}
   - component: {fileID: 1772802745}
   - component: {fileID: 1772802744}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14974,7 +14974,7 @@ GameObject:
   - component: {fileID: 1780275907}
   - component: {fileID: 1780275906}
   - component: {fileID: 1780275905}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: 'GrowthButton '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15097,7 +15097,7 @@ GameObject:
   - component: {fileID: 1811971134}
   - component: {fileID: 1811971136}
   - component: {fileID: 1811971135}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15173,7 +15173,7 @@ GameObject:
   - component: {fileID: 1832321124}
   - component: {fileID: 1832321126}
   - component: {fileID: 1832321125}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15308,7 +15308,7 @@ GameObject:
   - component: {fileID: 1843946888}
   - component: {fileID: 1843946890}
   - component: {fileID: 1843946889}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CharacterName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15443,7 +15443,7 @@ GameObject:
   - component: {fileID: 1849365482}
   - component: {fileID: 1849365484}
   - component: {fileID: 1849365483}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15579,7 +15579,7 @@ GameObject:
   - component: {fileID: 1857762029}
   - component: {fileID: 1857762028}
   - component: {fileID: 1857762027}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: AreaButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15702,7 +15702,7 @@ GameObject:
   - component: {fileID: 1861421138}
   - component: {fileID: 1861421140}
   - component: {fileID: 1861421139}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: PowerUP Selection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15727,7 +15727,7 @@ RectTransform:
   - {fileID: 1392417892}
   - {fileID: 1709981591}
   m_Father: {fileID: 1428193315}
-  m_RootOrder: 5
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -15783,7 +15783,7 @@ GameObject:
   - component: {fileID: 1866044460}
   - component: {fileID: 1866044462}
   - component: {fileID: 1866044461}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15862,7 +15862,7 @@ GameObject:
   - component: {fileID: 1868939012}
   - component: {fileID: 1868939011}
   - component: {fileID: 1868939014}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Start
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16011,7 +16011,7 @@ GameObject:
   - component: {fileID: 1877902339}
   - component: {fileID: 1877902341}
   - component: {fileID: 1877902340}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16086,7 +16086,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1878104002}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: JoystickCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16126,7 +16126,7 @@ GameObject:
   - component: {fileID: 1903273566}
   - component: {fileID: 1903273568}
   - component: {fileID: 1903273567}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16204,7 +16204,7 @@ GameObject:
   - component: {fileID: 1906556676}
   - component: {fileID: 1906556675}
   - component: {fileID: 1906556674}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: 'LuckButton '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16329,7 +16329,7 @@ GameObject:
   - component: {fileID: 1914293688}
   - component: {fileID: 1914293690}
   - component: {fileID: 1914293687}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16478,7 +16478,7 @@ GameObject:
   - component: {fileID: 1944101072}
   - component: {fileID: 1944101074}
   - component: {fileID: 1944101073}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16611,7 +16611,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1951541504}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16649,7 +16649,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1972052215}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16690,7 +16690,7 @@ GameObject:
   - component: {fileID: 1973925174}
   - component: {fileID: 1973925173}
   - component: {fileID: 1973925172}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Stage1Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16810,7 +16810,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1985198054}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16850,7 +16850,7 @@ GameObject:
   - component: {fileID: 2007913053}
   - component: {fileID: 2007913055}
   - component: {fileID: 2007913054}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16926,7 +16926,7 @@ GameObject:
   - component: {fileID: 2029948527}
   - component: {fileID: 2029948529}
   - component: {fileID: 2029948528}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17062,7 +17062,7 @@ GameObject:
   - component: {fileID: 2030629200}
   - component: {fileID: 2030629199}
   - component: {fileID: 2030629198}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: AntonioButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17183,7 +17183,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2040535551}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: VfxCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17223,7 +17223,7 @@ GameObject:
   - component: {fileID: 2074920253}
   - component: {fileID: 2074920255}
   - component: {fileID: 2074920254}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17300,7 +17300,7 @@ GameObject:
   - component: {fileID: 2076994967}
   - component: {fileID: 2076994969}
   - component: {fileID: 2076994968}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17435,7 +17435,7 @@ GameObject:
   - component: {fileID: 2101424319}
   - component: {fileID: 2101424321}
   - component: {fileID: 2101424320}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17512,7 +17512,7 @@ GameObject:
   - component: {fileID: 2111446352}
   - component: {fileID: 2111446354}
   - component: {fileID: 2111446353}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CharacterName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17645,7 +17645,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2116350313}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: CheckBoxSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17685,7 +17685,7 @@ GameObject:
   - component: {fileID: 2133599258}
   - component: {fileID: 2133599260}
   - component: {fileID: 2133599259}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ItemImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
