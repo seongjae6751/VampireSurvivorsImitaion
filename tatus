@@ -1,0 +1,42 @@
+[33mcommit 90dc1173cec54bfbf7c517667630b39a3cbf5bcd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: aaa55f2 1f9cae4
+Author: 김성재 <103095432+seongjae6751@users.noreply.github.com>
+Date:   Mon May 15 01:31:06 2023 +0900
+
+    ver2 update
+
+[33mcommit aaa55f25bfab73cd7905fcdd2611c5f707302fe6[m
+Author: 김성재 <103095432+seongjae6751@users.noreply.github.com>
+Date:   Mon May 15 01:25:40 2023 +0900
+
+    ver2
+
+[33mcommit 67cdc7c37121e973ffc62e1caeca32bd924099d4[m
+Author: 김성재 <103095432+seongjae6751@users.noreply.github.com>
+Date:   Sun May 14 21:05:00 2023 +0900
+
+    ui adjust
+
+[33mcommit 1f9cae45c149ef9de429519465c2b15f8e84fa37[m
+Author: 김성재 <103095432+seongjae6751@users.noreply.github.com>
+Date:   Sun May 14 21:05:00 2023 +0900
+
+    ui just
+
+[33mcommit 9a3d8633f12024ac70675b1bc0131eb004357f26[m
+Author: 김성재 <103095432+seongjae6751@users.noreply.github.com>
+Date:   Sun May 7 09:56:06 2023 +0900
+
+    Project Upload
+
+[33mcommit 1b43f86b91cde193a8ca409ec8e8a0095713c519[m
+Author: 김성재 <103095432+seongjae6751@users.noreply.github.com>
+Date:   Sun May 7 09:55:07 2023 +0900
+
+    Add gitattributes
+
+[33mcommit 35c32712dac27a09ed0859532cf6f0dfbcbc10b8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: 김성재 <103095432+seongjae6751@users.noreply.github.com>
+Date:   Sun May 7 09:50:12 2023 +0900
+
+    Initial commit

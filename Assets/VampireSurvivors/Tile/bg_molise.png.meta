@@ -108,12 +108,12 @@ TextureImporter:
       name: bg_molise_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
+        x: 84
+        y: 858
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -121,6 +121,132 @@ TextureImporter:
       bones: []
       spriteID: 1a3d368afab664e4bb572f73f19446ac
       internalID: 1758703026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_molise_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 603
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c445a7d684cecc428d8b53304c465c4
+      internalID: 528568808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_molise_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 536
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb959af5b41654283a4ae946954e96
+      internalID: -597609292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_molise_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 777
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556cb8eb54eef843a9b53ccbc0350ce
+      internalID: -1694562400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_molise_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 389
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c39affc048c26a4abee8ef5fad566a5
+      internalID: -588316466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_molise_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 388
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f8b6bb271dc04abf38d8364bfc362
+      internalID: 1665361816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_molise_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7facbf6dfb9a5b04e83a91283bbbcc26
+      internalID: -1290901487
       vertices: []
       indices: 
       edges: []
@@ -137,6 +263,12 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       bg_molise_0: 1758703026
+      bg_molise_1: 528568808
+      bg_molise_2: -597609292
+      bg_molise_3: -1694562400
+      bg_molise_4: -588316466
+      bg_molise_5: 1265675622
+      bg_molise_6: 1665361816
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
