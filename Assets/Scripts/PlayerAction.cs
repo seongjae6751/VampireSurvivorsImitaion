@@ -18,6 +18,7 @@ public class PlayerAction : MonoBehaviour
     {
         rigid = GetComponent<Rigidbody2D>();
         rend = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -37,11 +38,16 @@ public class PlayerAction : MonoBehaviour
 
     }
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
         Vector2 nextVec = inputVec.normalized * speed * Time.fixedDeltaTime;
 
         // 위치 이동
         rigid.MovePosition(rigid.position + nextVec);
+    }
+
+    void LateUpdate()
+    {
+        anim.SetFloat("speed", inputVec.magnitude);
     }
 }
