@@ -6,8 +6,7 @@ public class Enemy : MonoBehaviour
 {
     public float speed;
     public Rigidbody2D target;
-
-    bool isLive;
+    bool isLive = true;
 
     Rigidbody2D rigid;
     SpriteRenderer spriter;
@@ -22,7 +21,7 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (isLive)
+        if (!isLive)
         {
             return;
         }
