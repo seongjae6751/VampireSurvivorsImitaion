@@ -34,8 +34,8 @@ public class InfiniteTiles : MonoBehaviour
             case "ground":
                 if (Mathf.Abs(diffx - diffy) <= 0.1f)
                 {
-                    transform.Translate(Vector3.up * dirY * 40);
-                    transform.Translate(Vector3.right * dirX * 40);
+                    transform.Translate(Vector3.up * dirY * 10);
+                    transform.Translate(Vector3.right * dirX * 18);
                 }
                 else if (diffx > diffy)
                 {

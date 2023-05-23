@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
-  m_Name: InfiniteTile
+  m_Name: Infinitie tiles
   m_EditorClassIdentifier: 
   m_DefaultSprite: {fileID: 0}
   m_DefaultGameObject: {fileID: 0}
@@ -18,13 +18,20 @@ MonoBehaviour:
   m_TilingRules:
   - m_Id: 0
     m_Sprites:
-    - {fileID: -1752720384, guid: 6c0587adbc48e8d419e536ef537e6365, type: 3}
-    - {fileID: -1364771857, guid: 6c0587adbc48e8d419e536ef537e6365, type: 3}
-    - {fileID: 1054483741, guid: 6c0587adbc48e8d419e536ef537e6365, type: 3}
+    - {fileID: 1758703026, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: 528568808, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: -597609292, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: -1694562400, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: -588316466, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: 1665361816, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: 1665361816, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: 1665361816, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: 1665361816, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
+    - {fileID: 1665361816, guid: 407fc99c90f186f4c8965fc8613bc996, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
-    m_PerlinScale: 0.5
+    m_PerlinScale: 0.13
     m_Output: 1
     m_ColliderType: 1
     m_RandomTransform: 0
