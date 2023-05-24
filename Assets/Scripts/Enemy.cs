@@ -33,7 +33,7 @@ public class Enemy : MonoBehaviour
 
     void LateUpdate()
     {
-        if (isLive)
+        if (!isLive)
         {
             return;
         }

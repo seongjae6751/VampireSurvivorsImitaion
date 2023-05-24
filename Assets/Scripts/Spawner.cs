@@ -8,7 +8,7 @@ public class Spawner : MonoBehaviour
 
     float timer;
 
-    private void Awake()
+    void Awake()
     {
         spawnPoint = GetComponentsInChildren<Transform>();
     }
