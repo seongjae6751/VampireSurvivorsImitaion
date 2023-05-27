@@ -99,7 +99,7 @@ Animator:
   m_GameObject: {fileID: 7259856138651127644}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 108847a542e92204290f1ac351e73ca9, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -126,9 +126,9 @@ MonoBehaviour:
   health: 0
   maxHealth: 0
   animCon:
-  - {fileID: 9100000, guid: e4460c8861f771a40ab6ce202059e44c, type: 2}
-  - {fileID: 9100000, guid: 1037b44126446074ca4d4f1cf4039430, type: 2}
-  - {fileID: 9100000, guid: 1635545f2ff423242b4c0d70505b6b84, type: 2}
+  - {fileID: 9100000, guid: 36f216fdb5c728447ae4418c2c28479d, type: 2}
+  - {fileID: 9100000, guid: 7b484f39f4e642940890dab30146cd29, type: 2}
+  - {fileID: 9100000, guid: 627e589833a990b439d16c21287835dd, type: 2}
   - {fileID: 9100000, guid: 679bf80efb9e0174baac3b154939a767, type: 2}
   target: {fileID: 0}
 --- !u!114 &7259856138651127621
