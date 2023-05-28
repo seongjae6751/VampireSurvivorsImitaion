@@ -68,6 +68,7 @@ public class Enemy : MonoBehaviour
             return;
 
         health -= collision.GetComponent<Bullet>().damage;
+        // health -= collision.GetComponent<OnlyforWhip>().damage;
 
         if (health > 0)
         {
