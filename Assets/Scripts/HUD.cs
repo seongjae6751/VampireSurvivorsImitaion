@@ -23,11 +23,13 @@ public class HUD : MonoBehaviour
         switch (type)
         {
             case InfoType.Exp:
-
+                float curExp = GameManager.instance.exp;
+                float maxExp = GameManager.instance.nextExp[GameManager.instance.level];
+                myslider.value = curExp / maxExp;
                 break;
             case InfoType.Level:
 
-                break; 
+                break;
             case InfoType.Kill:
 
                 break;

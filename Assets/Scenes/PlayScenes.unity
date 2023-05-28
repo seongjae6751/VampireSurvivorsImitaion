@@ -2664,6 +2664,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameTime: 0
   maxGameTime: 20
+  level: 0
+  kill: 0
+  exp: 0
+  nextExp: 03000000050000000a0000006400000096000000d20000001801000068010000c201000058020000
   pool: {fileID: 1585211679}
   player: {fileID: 596281185}
 --- !u!1 &451214866
@@ -5047,6 +5051,7 @@ GameObject:
   m_Component:
   - component: {fileID: 809648096}
   - component: {fileID: 809648097}
+  - component: {fileID: 809648098}
   m_Layer: 5
   m_Name: Exp
   m_TagString: Untagged
@@ -5127,6 +5132,19 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &809648098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 809648095}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48058ae0b342d1549be5740038bd17d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 0
 --- !u!1 &908606832
 GameObject:
   m_ObjectHideFlags: 0
